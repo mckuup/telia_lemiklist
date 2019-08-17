@@ -1,0 +1,25 @@
+* {
+	font-size: 20px;
+}
+
+img {
+	height:40px;
+	width:90px;
+}
+ul{
+	float: left;
+	list-style:none;
+	width: 300px;
+	background-color: #dedeff;
+	padding: 5px;
+	margin:5px;
+}
+li{
+	height:40px;
+	border: 1px gray solid;
+	padding: 5px;
+}
+.sep{
+	background-color: #deffde;
+	font-size: 20px;
+}
